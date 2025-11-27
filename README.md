@@ -1,3 +1,5 @@
+Done a mini-project on student-course-management-system using My SQL Workbench8.0 CE  with a basic problems
+
 Mini Project: Student Course Management System
 
 This project manages:
